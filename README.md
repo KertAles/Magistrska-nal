@@ -1,1 +1,1 @@
-# Magistrska-nal
+# SLA in-painting method
